@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @quatre29
+- 👋 Hi, I’m Adrian
 - 👀 I’m interested in learning how to create websites and python automation in the future
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on MERN projects
