@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adrian
-- 👀 I’m interested in learning how to create websites and python automation in the future
+- 👀 I’m interested in learning more about blockchain and dapps
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on MERN projects
 - 📫 How to reach me adrianbalan2991@gmail.com
