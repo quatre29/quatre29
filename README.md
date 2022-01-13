@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning more about blockchain and dapps
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on MERN projects
-- 📫 How to reach me adrianbalan2991@gmail.com
+- 📫 Reach me at adrianbalan2991@gmail.com
 
 <!---
 quatre29/quatre29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
