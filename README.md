@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Adrian
 - 👀 I’m interested in learning more about software development
-- 🌱 I’m currently working on personal and freelancing projects
-- 💞️ I’m looking to collaborate on projects
 - 📫 Reach me at adrianbalan2991@gmail.com
 
 <!---
